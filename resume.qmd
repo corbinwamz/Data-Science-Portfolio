@@ -3,73 +3,62 @@ layout: cv
 title: Corbin Wamsley's CV
 ---
 # Corbin Wamsley
-Major in Computer Science and Minor in Finance at BYU-Idaho.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+**Major in Computer Science and Minor in Finance** at BYU-Idaho.
 
+<wam21006@byui.edu> | [My Linked In page](www.linkedin.com/in/corbin-wamsley-0610ba263)
 
-Here is the resume from the uploaded file, formatted as a document:
+---
 
-Corbin Wamsley
-corbinwamz@gmail.com | 706-572-8422 | www.linkedin.com/in/corbin-wamsley-0610ba263 
+## 🎓 Education
 
-Education
-Bachelor of Computer Science and Minor in Finance | GPA: 3.9  Brigham Young University - Idaho | Rexburg, ID September 2022 - April 2028 
+**Bachelor of Computer Science and Minor in Finance** | GPA: 3.9  
+Brigham Young University - Idaho | Rexburg, ID  
+*September 2022 - April 2028*
 
+---
 
+## 🛠️ Skills & Certifications
 
+* **Programming Languages:** Fluent in Python and Spanish, experienced in SQL and C#.
+* **Soft Skills:** Critical Thinking, Telecommunication, Public Speaking, Team Coordination, Leader, Problem Solving, Quick learner.
 
-Recognized a lack of inclusion for international students and coordinated with five teams to organize an event promoting support and engagement within the Computer Science department, allowing more students to be included.
+---
 
-Collaborated with a team of 4 developers to build a web application in html, css and javascript connecting community members with service opportunities.
+## 🌟 Projects & Achievements (From Resume Content)
 
-Achieved 2nd place in the Human Progression category at schoolwide hackathon with 30+ teams, completing project within 24 hours.
+* Recognized a lack of inclusion for international students and coordinated with five teams to organize an event promoting support and engagement within the Computer Science department, allowing more students to be included.
+* Collaborated with a team of 4 developers to build a web application in **HTML, CSS, and Javascript** connecting community members with service opportunities.
+* Achieved **2nd place** in the Human Progression category at schoolwide hackathon with 30+ teams, completing project within 24 hours.
+* Learned to use **C#** in 2 weeks.
 
-Learned to use C# in 2 weeks.
+---
 
-Experience
+## 💼 Experience
 
-Area Leader/Team Leader/Trainer  Church of Jesus Christ of Latter-Day Saints | Las Vegas, NV July 2023 - June 2025 
+### Area Leader/Team Leader/Trainer
+**Church of Jesus Christ of Latter-Day Saints** | Las Vegas, NV  
+*July 2023 - June 2025*
 
+* Oversaw performance of 30+ areas with over 90+ employees and worked to readily improve metrics.
+* Mentored and trained two new hires, building confidence and leadership potential by addressing individual concerns through one-on-one guidance and shadowing, resulting in future leaders.
+* Identified declining performance metrics and implemented weekly team meetings, resulting in improvements exceeding 200%.
 
+### Head Coach
+**Aberdeen Swim Team** | Atlanta, GA  
+*April 2023 - June 2023*
 
-Oversaw performance of 30+ areas with over 90+ employees and worked to readily improve metrics.
+* Coached and trained 100+ swimmers to improve performance and abilities.
+* Coordinated with 7 other teams to set up swim meets for competition.
+* Identified gaps in coaches' training and developed skills through weekly meetings and shadowing, ensuring positive perception from swimmers.
+* Inspired and led team to place **Third** at championship swim meet even after major loss of athletes from previous year through focusing one-on-one with swimmers and tailoring practices to needs.
 
-Mentored and trained two new hires, building confidence and leadership potential by addressing individual concerns through one-on-one guidance and shadowing, resulting in future leaders.
+### Shipping Coordinator
+**Cables And Kits** | Atlanta, GA  
+*September 2021 - June 2022*
 
-Identified declining performance metrics and implemented weekly team meetings, resulting in improvements exceeding 200%.
-
-
-Head Coach  Aberdeen Swim Team | Atlanta, GA April 2023 - June 2023 
-
-
-
-Coached and trained 100+ swimmers to improve performance and abilities.
-
-Coordinated with 7 other teams to set up swim meets for competition.
-
-Identified gaps in coaches' training and developed skills through weekly meetings and shadowing, ensuring positive perception from swimmers.
-
-Inspired and led team to place Third at championship swim meet even after major loss of athletes from previous year through focusing one-on-one with swimmers and tailoring practices to needs.
-
-
-Shipping Coordinator  Cables And Kits | Atlanta, GA September 2021 - June 2022 
-
-
-
-Oversaw order fulfillment, ensuring timely packaging and quality control.
-
-Provided online customer support, resolving product inquiries and shipment issues.
-
-Skills & Certifications
-Fluent in Python and Spanish and experienced in SQL and C#.
-
-Critical Thinking, Telecommunication, Public Speaking.
-
-Team Coordination, Leader, Problem Solving, Quick learner.
+* Oversaw order fulfillment, ensuring timely packaging and quality control.
+* Provided online customer support, resolving product inquiries and shipment issues.
 <!-- ### Footer
 
 Last updated: May 2013 -->
