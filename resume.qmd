@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Corbin Wamsley's CV
+title: Corbin Wamsley's CV 
 ---
 # Corbin Wamsley
 
